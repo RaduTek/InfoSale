@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Orders\Order.cs" />
+    <Compile Include="Orders\OrderProduct.cs" />
     <Compile Include="Orders\OrderStatus.cs" />
     <Compile Include="Orders\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

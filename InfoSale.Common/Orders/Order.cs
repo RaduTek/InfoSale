@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace InfoSale.Common.Orders
 {
@@ -22,6 +23,10 @@ namespace InfoSale.Common.Orders
         /// </summary>
         public OrderStatus Status { get; set; }
 
+        /// <summary>
+        /// List of products in order
+        /// </summary>
+        public List<OrderProduct> Products { get; private set; }
 
         /// <summary>
         /// Class constructor
@@ -29,6 +34,7 @@ namespace InfoSale.Common.Orders
         public Order()
         {
             DateTime = DateTime.Now;
+            Products = new List<OrderProduct>();
         }
     }
 }
