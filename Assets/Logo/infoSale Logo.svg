@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg2108"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="infoSale Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2231">infoSale Logo</title>
+  <sodipodi:namedview
+     id="namedview2110"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.9540685"
+     inkscape:cx="96.477114"
+     inkscape:cy="96.477114"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2108" />
+  <defs
+     id="defs2105">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2763"
+       x="-5.9901667"
+       y="-5.9739736"
+       width="13.125528"
+       height="13.113026">
+      <feFlood
+         flood-opacity="0.886275"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2753" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2755" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="104.05"
+         result="blur"
+         id="feGaussianBlur2757" />
+      <feOffset
+         dx="5.14019"
+         dy="6"
+         result="offset"
+         id="feOffset2759" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite2761" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3293" />
+      <feFlood
+         id="feFlood3295"
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3297"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3299"
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3301"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite3303"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     id="g2739"
+     transform="translate(-0.5275591,-0.5275591)"
+     style="filter:url(#filter2763)">
+    <path
+       d="m 20.28879,15.554555 15.128915,15.69097 5.490723,-5.294044 q 1.651681,-1.592517 2.967696,-1.612373 1.316816,-0.0637 2.306759,0.963025 0.968423,1.004401 0.878276,2.340338 -0.08935,1.292095 -1.741027,2.884612 l -15.55705,14.999792 q -1.651681,1.592518 -2.968495,1.656214 -1.316015,0.01985 -2.305959,-1.006866 -0.968422,-1.0044 -0.879076,-2.296497 0.09014,-1.335936 1.741826,-2.928453 l 5.490724,-5.294045 -10.717211,-11.115367 -3.682803,3.550884 q -1.629361,1.570996 -2.946175,1.634693 -1.338335,0.04138 -2.328279,-0.985345 -0.968422,-1.004401 -0.879076,-2.296497 0.09014,-1.335937 1.741826,-2.928454 z"
+       id="path2707"
+       style="font-weight:bold;font-size:53.4742px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';fill:#1127cf;stroke-width:0.200798;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       style="font-size:37.3422px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';display:inline;fill:#e00000;fill-opacity:1;stroke-width:0.30195;stroke-linecap:round;stroke-linejoin:round"
+       d="m 11.167041,4.7795276 q 1.352101,0 2.517705,0.5128683 1.165607,0.4662419 2.004842,1.3521005 0.885858,0.8858604 1.3521,2.0514637 0.512866,1.1189791 0.512866,2.4710799 0,1.305479 -0.512866,2.471084 -0.466242,1.165603 -1.3521,2.051465 -0.839235,0.885858 -2.004842,1.398726 -1.165604,0.46624 -2.517705,0.46624 -1.3521014,0 -2.5177054,-0.46624 -1.165604,-0.512868 -2.051465,-1.398726 -0.839237,-0.885862 -1.352101,-2.051465 -0.466242,-1.165605 -0.466242,-2.471084 0,-1.3521008 0.466242,-2.4710799 0.512864,-1.1656033 1.352101,-2.0514637 0.885861,-0.8858586 2.051465,-1.3521005 1.165604,-0.5128683 2.5177054,-0.5128683 z"
+       id="path1205" />
+  </g>
+  <metadata
+     id="metadata2229">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>infoSale Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
