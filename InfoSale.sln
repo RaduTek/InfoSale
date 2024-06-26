@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoSale.POS", "InfoSale.PO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoSale.Server", "InfoSale.Server\InfoSale.Server.csproj", "{F6D33B44-50B6-41C2-9B1A-063BF18ABE92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoSale.ServerHost", "InfoSale.ServerHost\InfoSale.ServerHost.csproj", "{2BD40918-8173-4F33-B54E-FF8142174E9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoSale.UI", "InfoSale.UI\InfoSale.UI.csproj", "{60016317-245E-465D-A6BD-CB22BE94B819}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{F6D33B44-50B6-41C2-9B1A-063BF18ABE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D33B44-50B6-41C2-9B1A-063BF18ABE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D33B44-50B6-41C2-9B1A-063BF18ABE92}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2BD40918-8173-4F33-B54E-FF8142174E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2BD40918-8173-4F33-B54E-FF8142174E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2BD40918-8173-4F33-B54E-FF8142174E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BD40918-8173-4F33-B54E-FF8142174E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60016317-245E-465D-A6BD-CB22BE94B819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60016317-245E-465D-A6BD-CB22BE94B819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60016317-245E-465D-A6BD-CB22BE94B819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60016317-245E-465D-A6BD-CB22BE94B819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

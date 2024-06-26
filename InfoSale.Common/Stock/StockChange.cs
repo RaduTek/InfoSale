@@ -1,4 +1,6 @@
-﻿using System;
+﻿using InfoSale.Common.Orders;
+using System;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace InfoSale.Common.Stock
 {
@@ -21,6 +23,12 @@ namespace InfoSale.Common.Stock
         /// Reference to customer order
         /// </summary>
         public int OrderId { get; set; }
+
+        /// <summary>
+        /// Customer order
+        /// </summary>
+        [ForeignKey("OrderId")]
+        public Order Order { get; set; }
 
         /// <summary>
         /// Reference to supply chain

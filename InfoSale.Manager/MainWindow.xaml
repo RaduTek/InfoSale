@@ -7,13 +7,26 @@
         mc:Ignorable="d"
         Title="InfoSale Manager" Height="500" Width="900">
     <DockPanel>
-        <Menu DockPanel.Dock="Top"></Menu>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File"/>
+            <MenuItem Header="Edit"/>
+            <MenuItem Header="Tools"/>
+            <MenuItem Header="Help">
+                <MenuItem Header="Contents"/>
+                <Separator/>
+                <MenuItem Header="About" />
+            </MenuItem>
+        </Menu>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition MinWidth="200" Width="300" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-            <TreeView></TreeView>
+            <TreeView>
+                <TreeViewItem Header="TreeViewItem" IsExpanded="True">
+                    <TreeViewItem Header="TreeViewItem"/>
+                </TreeViewItem>
+            </TreeView>
             <GridSplitter Width="3" />
             <Frame Grid.Column="1" />
         </Grid>

@@ -108,6 +108,10 @@
       <Project>{b9c46baa-2a1a-43f5-a8a9-05a581504561}</Project>
       <Name>InfoSale.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\InfoSale.UI\InfoSale.UI.csproj">
+      <Project>{60016317-245e-465d-a6bd-cb22be94b819}</Project>
+      <Name>InfoSale.UI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
